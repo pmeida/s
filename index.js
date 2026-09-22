@@ -29,5 +29,4 @@ const handle = async (context, body) => {
   };
 }
 
-// Export the function
-module.exports = { handle };
+
